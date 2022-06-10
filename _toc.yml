@@ -6,4 +6,4 @@ root: intro
 chapters:
 - file: remove_input
 - file: show_input
-
+- file: show_output_notebook
